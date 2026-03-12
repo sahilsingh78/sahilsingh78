@@ -134,14 +134,15 @@ https://github.com/sahilsingh78/fake-news-detector
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsingh78\&show_icons=true\&theme=tokyonight\&count_private=true)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sahilsingh78\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78&theme=tokyo-night)
 ---
 
 # 🌱 Currently Learning
