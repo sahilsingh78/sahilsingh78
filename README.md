@@ -103,9 +103,11 @@ https://github.com/sahilsingh78/peerlink-file-sharing
 
 # 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsingh78\&show_icons=true\&theme=tokyonight)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsingh78\&show_icons=true\&theme=tokyonight\&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilsingh78\&theme=tokyonight)
 
 ---
 
