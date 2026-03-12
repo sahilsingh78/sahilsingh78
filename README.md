@@ -4,14 +4,14 @@
 🎓 B.Tech Information Technology (2026)
 📍 India
 
-I enjoy building **scalable backend systems, distributed networking applications, and AI-powered tools**.
-Currently focusing on **system design, networking, and machine learning applications**.
+I enjoy building **scalable backend systems, distributed networking applications, and machine learning solutions**.
+Currently exploring **system design, networking, and applied AI projects**.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -24,6 +24,12 @@ Currently focusing on **system design, networking, and machine learning applicat
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Architecture-green?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-Backend-orange?style=for-the-badge)
 
+### Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-AI-purple?style=for-the-badge)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -34,56 +40,71 @@ Currently focusing on **system design, networking, and machine learning applicat
 
 # 📌 Featured Projects
 
-## Multithreaded Java Web Server
-
-A lightweight HTTP server built from scratch using **Java sockets and multithreading**.
-
-Features:
-
-* Thread pool based request handling
-* Static file serving
-* REST-style API endpoints
-* Request logging system
-* Performance benchmarking
-
-🔗 Repository
-https://github.com/sahilsingh78/multithreaded-java-web-server
-
----
-
 ## PeerLink Distributed File Sharing System
 
-A **torrent-style peer-to-peer file sharing system** built using Java sockets.
+A torrent-style **peer-to-peer distributed file sharing system built using Java sockets**.
 
 Features:
 
 * Tracker server for peer discovery
-* Torrent-style metadata file (.peerlink)
 * Chunk-based file transfer
-* Parallel downloading with multiple threads
-* File reconstruction from chunks
+* Parallel downloading using multithreading
+* Torrent-style metadata file
+* File reconstruction from downloaded chunks
 
 🔗 Repository
 https://github.com/sahilsingh78/peerlink-file-sharing
 
 ---
 
-## Fake News Detection Web App
+## Multithreaded Java Web Server
 
-A machine learning powered system that detects misleading news articles.
+A lightweight **HTTP server built from scratch using Java sockets and multithreading**.
+
+Features:
+
+* Thread pool based request handling
+* Static file serving
+* REST-style API endpoints
+* Request logging and benchmarking
+
+🔗 Repository
+https://github.com/sahilsingh78/multithreaded-java-web-server
+
+---
+
+## Brain Tumor Detection using Deep Learning
+
+A deep learning system that detects **brain tumors from MRI images using CNN models**.
+
+Features:
+
+* Medical image classification
+* MRI dataset preprocessing
+* CNN-based tumor detection
+* Training visualization and evaluation
+
+🔗 Repository
+https://github.com/sahilsingh78/brain-tumor-detection
+
+---
+
+## Fake News Detection Web Application
+
+A machine learning system that classifies misleading news articles.
 
 Tech Stack:
 
 * React
 * Flask
-* NLP / Scikit-learn
-* REST API integration
+* Scikit-learn
+* NLP
 
 Features:
 
-* ML-based news classification
-* Interactive frontend interface
-* Real-time prediction
+* News classification using ML models
+* Interactive web interface
+* Real-time prediction pipeline
 
 🔗 Repository
 https://github.com/sahilsingh78/fake-news-detector
@@ -105,7 +126,7 @@ https://github.com/sahilsingh78/fake-news-detector
 * Data Structures & Algorithms
 * Backend System Design
 * Distributed Systems
-* Machine Learning Applications
+* Applied Machine Learning
 
 ---
 
@@ -116,3 +137,6 @@ https://github.com/sahilsingh78/fake-news-detector
 
 💻 GitHub
 https://github.com/sahilsingh78
+
+🔗 LinkedIn
+https://www.linkedin.com/in/sahil-singh-67880826b/
