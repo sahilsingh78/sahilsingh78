@@ -1,11 +1,11 @@
 # Hi, I'm Sahil👋
 
-💻 Backend & Full-Stack Developer
+💻 Software Engineer | Backend | Distributed Systems | AI/ML Enthusiast
 🎓 B.Tech Information Technology (2026)
 📍 India
 
-I enjoy building **backend systems, networking applications, and scalable web services**.
-Currently improving my skills in **Java backend development, distributed systems, and system design**.
+I enjoy building **scalable backend systems, distributed networking applications, and AI-powered tools**.
+Currently focusing on **system design, networking, and machine learning applications**.
 
 ---
 
@@ -18,12 +18,11 @@ Currently improving my skills in **Java backend development, distributed systems
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Backend & Web
+### Backend & Systems
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![HTTP](https://img.shields.io/badge/Protocol-HTTP-blue?style=for-the-badge)
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-Networking-blue?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Architecture-green?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-Backend-orange?style=for-the-badge)
 
 ### Tools
 
@@ -37,15 +36,14 @@ Currently improving my skills in **Java backend development, distributed systems
 
 ## Multithreaded Java Web Server
 
-Custom HTTP web server built using **Java sockets and multithreading**.
+A lightweight HTTP server built from scratch using **Java sockets and multithreading**.
 
 Features:
 
-* Multithreaded request handling using thread pool
-* HTTP request parsing
+* Thread pool based request handling
 * Static file serving
-* REST API endpoints
-* Logging system
+* REST-style API endpoints
+* Request logging system
 * Performance benchmarking
 
 🔗 Repository
@@ -53,51 +51,42 @@ https://github.com/sahilsingh78/multithreaded-java-web-server
 
 ---
 
-## Fake News Detection Web App
-
-A full-stack application that detects potentially misleading news articles using **machine learning**.
-
-Tech Stack:
-
-* React
-* Spring Boot
-* Flask
-* Scikit-learn
-* REST APIs
-
-Features:
-
-* News article classification
-* Machine learning based detection
-* Dynamic frontend interface
-* REST API architecture
-
-🔗 Repository
-https://github.com/sahilsingh78/fake-news-detector
-
----
-
 ## PeerLink Distributed File Sharing System
 
-A torrent-style **peer-to-peer file sharing system built using Java sockets**.
+A **torrent-style peer-to-peer file sharing system** built using Java sockets.
 
 Features:
 
 * Tracker server for peer discovery
+* Torrent-style metadata file (.peerlink)
 * Chunk-based file transfer
-* Parallel downloading using multiple threads
-* Torrent-style metadata file (`.peerlink`)
-* File reconstruction from downloaded chunks
-
-Tech Stack:
-
-* Java
-* Socket Programming
-* Multithreading
-* Distributed Systems
+* Parallel downloading with multiple threads
+* File reconstruction from chunks
 
 🔗 Repository
 https://github.com/sahilsingh78/peerlink-file-sharing
+
+---
+
+## Fake News Detection Web App
+
+A machine learning powered system that detects misleading news articles.
+
+Tech Stack:
+
+* React
+* Flask
+* NLP / Scikit-learn
+* REST API integration
+
+Features:
+
+* ML-based news classification
+* Interactive frontend interface
+* Real-time prediction
+
+🔗 Repository
+https://github.com/sahilsingh78/fake-news-detector
 
 ---
 
@@ -111,12 +100,18 @@ https://github.com/sahilsingh78/peerlink-file-sharing
 
 ---
 
+# 📈 Activity Graph
+
+![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78\&theme=tokyo-night)
+
+---
+
 # 🌱 Currently Learning
 
 * Data Structures & Algorithms
-* Backend system design
-* Distributed systems
-* High-performance server architecture
+* Backend System Design
+* Distributed Systems
+* Machine Learning Applications
 
 ---
 
@@ -124,9 +119,6 @@ https://github.com/sahilsingh78/peerlink-file-sharing
 
 📧 Email
 [singhsahil.040578@gmail.com](mailto:singhsahil.040578@gmail.com)
-
-💼 LinkedIn
-https://www.linkedin.com/in/sahil-singh-67880826b
 
 💻 GitHub
 https://github.com/sahilsingh78
