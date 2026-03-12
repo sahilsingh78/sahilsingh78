@@ -1,4 +1,4 @@
-# Hi, I'm Sahil Singh 👋
+# Hi, I'm Sahil👋
 
 💻 Backend & Full-Stack Developer
 🎓 B.Tech Information Technology (2026)
@@ -77,15 +77,27 @@ https://github.com/sahilsingh78/fake-news-detector
 
 ---
 
-## PeerLink File Sharing System
+## PeerLink Distributed File Sharing System
 
-Peer-to-peer file sharing service built using **Java sockets and networking**.
+A torrent-style **peer-to-peer file sharing system built using Java sockets**.
 
 Features:
 
-* Peer-to-peer communication
-* File transfer system
-* Modular networking architecture
+* Tracker server for peer discovery
+* Chunk-based file transfer
+* Parallel downloading using multiple threads
+* Torrent-style metadata file (`.peerlink`)
+* File reconstruction from downloaded chunks
+
+Tech Stack:
+
+* Java
+* Socket Programming
+* Multithreading
+* Distributed Systems
+
+🔗 Repository
+https://github.com/sahilsingh78/peerlink-file-sharing
 
 ---
 
