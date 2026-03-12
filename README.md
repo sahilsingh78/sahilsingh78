@@ -1,49 +1,118 @@
-# Hi, I'm Sahil👋
+# Hi, I'm Sahil Singh 👋
 
-💻 Backend / Full Stack Developer  
-🎓 B.Tech IT @ Galgotias College of Engineering and Technology (2026)  
-📍 India  
+💻 Backend & Full-Stack Developer
+🎓 B.Tech Information Technology (2026)
+📍 India
 
-## 🚀 Tech Stack
-- Languages: Java, Python, C/C++, JavaScript
-- Backend: Spring Boot, Flask
-- Frontend: React.js
-- Machine Learning: Scikit-learn, Pandas, NumPy
-- Tools: Git, Postman, IntelliJ, VS Code
+I enjoy building **backend systems, networking applications, and scalable web services**.
+Currently improving my skills in **Java backend development, distributed systems, and system design**.
 
-## 📌 Featured Projects
+---
 
-### Fake News Detection Platform
-Full-stack ML web application to detect misleading news articles.
+# 🚀 Tech Stack
 
-Tech: React, Spring Boot, Flask, Scikit-learn
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend & Web
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![HTTP](https://img.shields.io/badge/Protocol-HTTP-blue?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+## Multithreaded Java Web Server
+
+Custom HTTP web server built using **Java sockets and multithreading**.
 
 Features:
-- Real-time news classification
-- REST API architecture
-- Machine learning text analysis
 
-### Multithreaded Web Server
-Custom HTTP server built using Java sockets and multithreading.
+* Multithreaded request handling using thread pool
+* HTTP request parsing
+* Static file serving
+* REST API endpoints
+* Logging system
+* Performance benchmarking
+
+🔗 Repository
+https://github.com/sahilsingh78/multithreaded-java-web-server
+
+---
+
+## Fake News Detection Web App
+
+A full-stack application that detects potentially misleading news articles using **machine learning**.
+
+Tech Stack:
+
+* React
+* Spring Boot
+* Flask
+* Scikit-learn
+* REST APIs
 
 Features:
-- Concurrent client handling
-- HTTP request-response lifecycle
-- Thread-based request processing
 
-### PeerLink File Sharing System
-Peer-to-peer file sharing service built using Java networking.
+* News article classification
+* Machine learning based detection
+* Dynamic frontend interface
+* REST API architecture
+
+🔗 Repository
+https://github.com/sahilsingh78/fake-news-detector
+
+---
+
+## PeerLink File Sharing System
+
+Peer-to-peer file sharing service built using **Java sockets and networking**.
 
 Features:
-- Socket communication
-- Modular networking architecture
-- Secure file transfer
 
-## 🧠 Currently Learning
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
+* Peer-to-peer communication
+* File transfer system
+* Modular networking architecture
 
-## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/sahil-singh-67880826b 
-Email: singhsahil.040578@gmail.com
+---
+
+# 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsingh78\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Backend system design
+* Distributed systems
+* High-performance server architecture
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+[singhsahil.040578@gmail.com](mailto:singhsahil.040578@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/sahil-singh-67880826b
+
+💻 GitHub
+https://github.com/sahilsingh78
