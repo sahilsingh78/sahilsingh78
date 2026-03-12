@@ -40,17 +40,25 @@ Currently exploring **system design, networking, and applied AI projects**.
 
 # 📌 Featured Projects
 
+# 📌 Featured Projects
+
 ## PeerLink Distributed File Sharing System
 
 A torrent-style **peer-to-peer distributed file sharing system built using Java sockets**.
+
+**Tech Stack**
+
+* Java
+* Socket Programming
+* Multithreading
+* Distributed Systems
 
 Features:
 
 * Tracker server for peer discovery
 * Chunk-based file transfer
-* Parallel downloading using multithreading
-* Torrent-style metadata file
-* File reconstruction from downloaded chunks
+* Parallel downloading using threads
+* File reconstruction from chunks
 
 🔗 Repository
 https://github.com/sahilsingh78/peerlink-file-sharing
@@ -59,14 +67,21 @@ https://github.com/sahilsingh78/peerlink-file-sharing
 
 ## Multithreaded Java Web Server
 
-A lightweight **HTTP server built from scratch using Java sockets and multithreading**.
+A lightweight **HTTP web server built from scratch using Java sockets**.
+
+**Tech Stack**
+
+* Java
+* Socket Programming
+* Multithreading
+* HTTP Protocol
 
 Features:
 
-* Thread pool based request handling
+* Concurrent request handling
 * Static file serving
+* HTTP request parsing
 * REST-style API endpoints
-* Request logging and benchmarking
 
 🔗 Repository
 https://github.com/sahilsingh78/multithreaded-java-web-server
@@ -77,11 +92,19 @@ https://github.com/sahilsingh78/multithreaded-java-web-server
 
 A deep learning system that detects **brain tumors from MRI images using CNN models**.
 
+**Tech Stack**
+
+* Python
+* TensorFlow / Keras
+* OpenCV
+* NumPy
+* Scikit-learn
+
 Features:
 
-* Medical image classification
-* MRI dataset preprocessing
+* MRI image classification
 * CNN-based tumor detection
+* Data preprocessing and normalization
 * Training visualization and evaluation
 
 🔗 Repository
@@ -91,19 +114,21 @@ https://github.com/sahilsingh78/brain-tumor-detection
 
 ## Fake News Detection Web Application
 
-A machine learning system that classifies misleading news articles.
+A machine learning system that detects **misleading news articles using NLP techniques**.
 
-Tech Stack:
+**Tech Stack**
 
 * React
 * Flask
+* Spring Boot
 * Scikit-learn
 * NLP
 
 Features:
 
-* News classification using ML models
-* Interactive web interface
+* ML-based news classification
+* REST API integration
+* Interactive frontend interface
 * Real-time prediction pipeline
 
 🔗 Repository
