@@ -142,7 +142,6 @@ https://github.com/sahilsingh78/fake-news-detector
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78&theme=tokyo-night)
 ---
 
 # 🌱 Currently Learning
