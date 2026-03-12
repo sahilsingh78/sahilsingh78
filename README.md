@@ -40,8 +40,6 @@ Currently exploring **system design, networking, and applied AI projects**.
 
 # 📌 Featured Projects
 
-# 📌 Featured Projects
-
 ## PeerLink Distributed File Sharing System
 
 A torrent-style **peer-to-peer distributed file sharing system built using Java sockets**.
