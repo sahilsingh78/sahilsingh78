@@ -100,12 +100,6 @@ https://github.com/sahilsingh78/fake-news-detector
 
 ---
 
-# 📈 Activity Graph
-
-![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78\&theme=tokyo-night)
-
----
-
 # 🌱 Currently Learning
 
 * Data Structures & Algorithms
