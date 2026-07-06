@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sahil+Singh+%F0%9F%91%8B;Backend+Developer;Distributed+Systems+Enthusiast;AI%2FML+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sahil+%F0%9F%91%8B;Backend+Developer;Distributed+Systems+Enthusiast;AI%2FML+Explorer" alt="Typing SVG" />
 
 ### 🎓 B.Tech Information Technology (2026) &nbsp;|&nbsp; 📍 India
 
@@ -19,53 +19,54 @@ Currently deep in **Data Structures & Algorithms, System Design, Distributed Sys
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr><td align="center"><b>Languages</b></td></tr>
+<tr><td align="center">
 
-**Languages**
-<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br><br>
+</td></tr>
+<tr><td align="center"><b>Backend & Systems</b></td></tr>
+<tr><td align="center">
 
-**Backend & Systems**
-<br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Socket_Programming-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Distributed_Systems-228B22?style=for-the-badge"/>
 
-<br><br>
+</td></tr>
+<tr><td align="center"><b>Frontend</b></td></tr>
+<tr><td align="center">
 
-**Frontend**
-<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br><br>
+</td></tr>
+<tr><td align="center"><b>Machine Learning</b></td></tr>
+<tr><td align="center">
 
-**Machine Learning**
-<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge"/>
 
-<br><br>
+</td></tr>
+<tr><td align="center"><b>Tools</b></td></tr>
+<tr><td align="center">
 
-**Tools**
-<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</div>
+</td></tr>
+</table>
 
 <br>
 
@@ -128,12 +129,12 @@ An ML web app that classifies news articles using NLP.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
