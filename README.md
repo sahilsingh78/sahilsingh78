@@ -1,176 +1,169 @@
-<h1 align="center">Hi 👋, I'm Sahil Singh</h1>
-<h3 align="center">Backend Developer • Distributed Systems • AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-🎓 B.Tech Information Technology (2026) <br>
-📍 India <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sahil+Singh+%F0%9F%91%8B;Backend+Developer;Distributed+Systems+Enthusiast;AI%2FML+Explorer" alt="Typing SVG" />
 
-Passionate about building <strong>scalable backend systems, distributed networking applications, and AI-powered solutions.</strong><br>
-Currently learning <strong>Data Structures & Algorithms, System Design, Distributed Systems, and Machine Learning.</strong>
-</p>
+### 🎓 B.Tech Information Technology (2026) &nbsp;|&nbsp; 📍 India
 
----
+Passionate about building **scalable backend systems, distributed networking applications, and AI-powered solutions.**
+Currently deep in **Data Structures & Algorithms, System Design, Distributed Systems, and Machine Learning.**
 
-# 🚀 Tech Stack
+<br>
 
-### 💻 Programming Languages
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilsingh78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilbuilds/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsahil.040578@gmail.com)
 
-<p>
+</div>
+
+<br>
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-### ⚙️ Backend & Systems
+<br><br>
 
-<p>
+**Backend & Systems**
+<br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Socket_Programming-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Distributed_Systems-228B22?style=for-the-badge"/>
-</p>
 
-### 🎨 Frontend
+<br><br>
 
-<p>
+**Frontend**
+<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
 
-### 🤖 Machine Learning
+<br><br>
 
-<p>
+**Machine Learning**
+<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge"/>
-</p>
 
-### 🛠 Tools
+<br><br>
 
-<p>
+**Tools**
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
 
----
+</div>
 
-# 📌 Featured Projects
+<br>
 
-## 🌐 PeerLink Distributed File Sharing System
+## 📌 Featured Projects
 
-A torrent-style peer-to-peer distributed file sharing system built using **Java Sockets** and **Multithreading**.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Highlights**
-
+### 🌐 PeerLink — Distributed File Sharing
+A torrent-style peer-to-peer file sharing system built with **Java Sockets & Multithreading**.
 - Tracker server for peer discovery
-- Chunk-based file transfer
-- Parallel downloading
-- File reconstruction
-- Distributed networking architecture
+- Chunk-based, parallel file transfer
+- Fault-tolerant reconstruction
 
-🔗 **Repository**  
-https://github.com/sahilsingh78/peerlink-file-sharing
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilsingh78/peerlink-file-sharing)
 
----
+</td>
+<td width="50%" valign="top">
 
-## ⚡ Multithreaded Java Web Server
-
-A lightweight HTTP server developed from scratch using **Java Socket Programming**.
-
-**Highlights**
-
+### ⚡ Multithreaded Java Web Server
+A lightweight HTTP server built from scratch using **Java Socket Programming**.
 - Concurrent request handling
-- Static file serving
-- HTTP request parsing
+- HTTP request parsing & static file serving
 - REST-style endpoints
-- Multi-threaded architecture
 
-🔗 **Repository**  
-https://github.com/sahilsingh78/multithreaded-java-web-server
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilsingh78/multithreaded-java-web-server)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🧠 Brain Tumor Detection using Deep Learning
+### 🧠 Brain Tumor Detection — Deep Learning
+A CNN-based model for detecting brain tumors from MRI scans.
+- MRI image classification & preprocessing
+- CNN architecture with TensorFlow & OpenCV
+- Model evaluation & metrics
 
-A CNN-based deep learning model for detecting brain tumors from MRI images.
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilsingh78/brain-tumor-detection)
 
-**Highlights**
+</td>
+<td width="50%" valign="top">
 
-- MRI classification
-- CNN architecture
-- Image preprocessing
-- Model evaluation
-- TensorFlow & OpenCV
-
-🔗 **Repository**  
-https://github.com/sahilsingh78/brain-tumor-detection
-
----
-
-## 📰 Fake News Detection Web Application
-
-A machine learning web application that classifies fake news articles using NLP.
-
-**Highlights**
-
-- ML-powered classification
+### 📰 Fake News Detection Web App
+An ML web app that classifies news articles using NLP.
 - Spring Boot + Flask backend
-- React frontend
-- REST API integration
+- React frontend with REST API integration
 - Real-time prediction
 
-🔗 **Repository**  
-https://github.com/sahilsingh78/fake-news-detector
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilsingh78/fake-news-detector)
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Analytics
+<br>
 
-<p align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh78&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Backend System Design
-- Distributed Systems
-- Computer Networks
-- Operating Systems
-- Machine Learning
+<div align="center">
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-556270?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-C44D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-1A535C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FFA07A?style=for-the-badge"/>
+</div>
 
----
+<br>
 
-# 📫 Connect With Me
+<div align="center">
 
-📧 **Email**  
-**singhsahil.040578@gmail.com**
+## 📫 Let's Connect
 
-💻 **GitHub**  
-https://github.com/sahilsingh78
+[![Email](https://img.shields.io/badge/singhsahil.040578%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsahil.040578@gmail.com)
+[![GitHub](https://img.shields.io/badge/sahilsingh78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilsingh78)
+[![LinkedIn](https://img.shields.io/badge/sahilbuilds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilbuilds/)
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/sahilbuilds/
+<br>
 
----
+⭐ **Thanks for visiting my profile! Feel free to connect and explore my repositories.**
 
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and explore my repositories.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer"/>
+
+</div>
