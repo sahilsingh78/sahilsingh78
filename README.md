@@ -130,7 +130,7 @@ An ML web app that classifies news articles using NLP.
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight"/>
 
 <br>
 
