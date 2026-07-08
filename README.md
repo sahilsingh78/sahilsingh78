@@ -130,19 +130,6 @@
 
 <br>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight&hide_border=true"/>
-<br><br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
-<br><br>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ## Currently Learning
 
 <div align="center">
