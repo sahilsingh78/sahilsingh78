@@ -12,7 +12,7 @@
 
 <br>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <table align="center" width="100%">
 <tr>
@@ -75,13 +75,13 @@
 
 <br>
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🌐 PeerLink — Distributed File Sharing**
+**PeerLink — Distributed File Sharing**
 <br>Torrent-style P2P file sharing built with **Java Sockets & Multithreading**.
 - Tracker server for peer discovery
 - Chunk-based, parallel file transfer
@@ -92,7 +92,7 @@
 </td>
 <td width="50%" valign="top">
 
-**⚡ Multithreaded Java Web Server**
+**Multithreaded Java Web Server**
 <br>Lightweight HTTP server built from scratch with **Java Socket Programming**.
 - Concurrent request handling
 - HTTP request parsing & static file serving
@@ -105,7 +105,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Brain Tumor Detection — Deep Learning**
+**Brain Tumor Detection — Deep Learning**
 <br>CNN-based model for detecting brain tumors from MRI scans.
 - MRI image classification & preprocessing
 - CNN architecture with TensorFlow & OpenCV
@@ -116,7 +116,7 @@
 </td>
 <td width="50%" valign="top">
 
-**📰 Fake News Detection Web App**
+**Fake News Detection Web App**
 <br>ML web app that classifies news articles using NLP.
 - Spring Boot + Flask backend
 - React frontend with REST API integration
@@ -130,22 +130,20 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilsingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sahilsingh78&theme=tokyonight&hide_border=true"/>
 <br><br>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh78&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh78&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br>
-
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -162,7 +160,7 @@
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/sahilsingh78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilsingh78)
 [![LinkedIn](https://img.shields.io/badge/sahilbuilds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilbuilds/)
@@ -170,7 +168,7 @@
 
 <br>
 
-⭐ **Thanks for visiting my profile — feel free to connect and explore my repositories.**
+**Thanks for visiting my profile — feel free to connect and explore my repositories.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0F2027&height=100&section=footer"/>
 
